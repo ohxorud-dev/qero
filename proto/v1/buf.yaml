@@ -1,0 +1,8 @@
+version: v1
+name: buf.build/ohxourd/qero
+lint:
+  use:
+    - DEFAULT
+breaking:
+  use:
+    - FILE
