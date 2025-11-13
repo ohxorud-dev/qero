@@ -1,2 +1,6 @@
 # Generated code
-generated/
+generated/dart/proto/
+generated/go/proto/
+
+# Jetbrains
+.idea/
